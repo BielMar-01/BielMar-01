@@ -22,6 +22,6 @@
   <a href = "mailto:dev.gabrielmarques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dev-gabriel-marques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-    ![Snake animation](https://github.com/BielMar-01/BielMar-01/blob/output/github-contribution-grid-snake.gif)
+    ![snake gif](https://github.com/BielMar-01/BielMar-01/blob/output/github-contribution-grid-snake.gif)
     
 </div>
